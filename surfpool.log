@@ -1,0 +1,91 @@
+Jul 27 06:28:48.431 INFO Datasource connection successful. Epoch 824 / Slot index 56443 / Slot 356024443.
+Jul 27 06:28:48.431 INFO Account GKPoVMxhDTi3SGxK8wRgguwfXjV8EmNkpqCfeQWyhniT updated.
+Jul 27 06:28:48.431 INFO Genesis airdrop successful GKPoVMxhDTi3SGxK8wRgguwfXjV8EmNkpqCfeQWyhniT: 10000000000000
+Jul 27 06:28:48.431 INFO Runbook 'deployment' execution started
+Jul 27 06:28:48.746 INFO Runbook 'deployment' execution completed
+Jul 27 06:28:52.061 INFO Transaction processed 2zesMPDibH2C3CGdBJoKYwhY1eC7aDXu6jwhDaFG6yjjaNEfkzwzHfyShX4QpRXWuJgA7MEq7bhsVghTYSpA9gox
+Jul 27 06:28:52.061 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:52.061 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:52.061 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:52.061 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:52.061 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:52.061 INFO Program 11111111111111111111111111111111 invoke [2]
+Jul 27 06:28:52.061 INFO Program 11111111111111111111111111111111 success
+Jul 27 06:28:52.061 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 3244 of 9700 compute units
+Jul 27 06:28:52.061 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:52.079 INFO Transaction processed 3nVbtFPfk4zaQLhRPE7V3vhvn1ayjGuGtxdP26CReMkZX3utd6cL4K75hBPbAnyYTbgcaEbagcqso5RmLMQDJF4W
+Jul 27 06:28:52.079 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:52.079 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:52.079 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:52.079 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:52.079 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:52.079 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 379 of 4700 compute units
+Jul 27 06:28:52.079 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:52.598 INFO Transaction processed 3aZsdLuuwRh7gJdnorFtk2QCgnrQJdkBfebycRJo5B8WhEF917Twcrtpq1gc6qPwdiJG2prBdmHZUqgMbdRZNYiT
+Jul 27 06:28:52.598 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:52.598 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:52.598 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:52.598 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:52.598 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:52.598 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 379 of 4700 compute units
+Jul 27 06:28:52.598 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:53.124 INFO Transaction processed NE4Te226q9PHDg1H3nmnaQC59DZrDqQnUmRCLgN8LSohwJnwXE8bcHWimTymxWkfURw7RuG9E3zEPB3sncnm7ZZ
+Jul 27 06:28:53.124 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:53.124 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:53.124 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:53.124 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:53.124 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:53.124 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 379 of 4700 compute units
+Jul 27 06:28:53.124 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:53.635 INFO Transaction processed 4NNgY7eCPaSCYoQHZTwa1bujTdk5ZhDkNTsqTzdxkiiTdfbH4U43bzfvdkfUEYKEsHoehiKTyW8w6oXh1eVgc9ho
+Jul 27 06:28:53.635 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:53.635 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:53.635 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:53.635 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:53.635 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:53.635 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 379 of 4700 compute units
+Jul 27 06:28:53.635 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:54.153 INFO Transaction processed 4XAFQtSq2kQep9c6ToYk4GpocQi3NURdTuPci4bHAi7wXHniEi7LxxMMheKye9kMhESsys2SrbXijFyavkC1dbGZ
+Jul 27 06:28:54.153 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:54.153 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:54.153 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:54.153 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:54.153 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:54.153 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 388 of 4700 compute units
+Jul 27 06:28:54.153 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:54.307 INFO Transaction processed CY2vs69K8QfYSxuNu1uvvBiRanss9o9TYL2DigG1moj32NtoNFUo129z2XQQstjd84B35xz7HGfkmHDuVoDi5W1
+Jul 27 06:28:54.309 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:54.309 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:54.309 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:54.309 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:54.309 INFO Program 11111111111111111111111111111111 invoke [1]
+Jul 27 06:28:54.309 INFO Program 11111111111111111111111111111111 success
+Jul 27 06:28:55.021 INFO Transaction processed 4JR5JurRR9AGTRmBabZRCa8YT77YKKvZ38v1XnK3jCrukw5bTnFxXd2EeFihoqm1S1E74EKW8v5w3hXcZeip8Fva
+Jul 27 06:28:55.022 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:55.022 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:55.022 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:55.022 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:55.022 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:55.022 INFO Program 11111111111111111111111111111111 invoke [2]
+Jul 27 06:28:55.022 INFO Program 11111111111111111111111111111111 success
+Jul 27 06:28:55.022 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 3244 of 99700 compute units
+Jul 27 06:28:55.022 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:55.035 ERRO Transaction simulation failed: Error processing Instruction 2: custom program error: 0x1772
+Jul 27 06:28:55.039 ERRO Transaction simulation failed: Error processing Instruction 2: custom program error: 0x1772
+Jul 27 06:28:55.043 INFO Transaction processed 494tM7hedLEt1Rj6eeggZfCyiz6pmnZsWyjgrugJJxWN6ncM47cmvNibJHRYNsGfLsiirqUXzjnjEiPiznB8xk5E
+Jul 27 06:28:55.043 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:55.043 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:55.043 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:55.043 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:55.043 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:55.043 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 379 of 4700 compute units
+Jul 27 06:28:55.043 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:55.052 INFO Transaction processed 4AmQPBdFjBp62nsKoahfxvBbgtLiWRTxPKSC9fHj4e7w8tf5EBwxxioHAtL1oV4Suk5E84Q2XZv5wjEiVbueNUov
+Jul 27 06:28:55.052 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:55.052 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:55.052 INFO Program ComputeBudget111111111111111111111111111111 invoke [1]
+Jul 27 06:28:55.052 INFO Program ComputeBudget111111111111111111111111111111 success
+Jul 27 06:28:55.052 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ invoke [1]
+Jul 27 06:28:55.052 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ consumed 388 of 4700 compute units
+Jul 27 06:28:55.052 INFO Program Cntrt7BXEtNAnSo9ecGs9n9KkHGDF73Shr3xqFvsvQTJ success
+Jul 27 06:28:55.058 ERRO Transaction simulation failed: This transaction has already been processed
